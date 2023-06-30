@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cxk.fuckxixi.MainActivity">
+    <item
+        android:id="@+id/About"
+        android:orderInCategory="100"
+        android:title="激活码"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Update"
+        android:orderInCategory="100"
+        android:title="更新程序"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Login"
+        android:orderInCategory="100"
+        android:title="习习账号"
+        app:showAsAction="never" />
+</menu>
